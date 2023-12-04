@@ -4,6 +4,16 @@
       "id": 2,
       "checked": false,
       "item": "candy"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "horse"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "video"
     }
   ]
 }

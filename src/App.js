@@ -9,7 +9,7 @@ import { useEffect, useState } from 'react'
 
 function App() {
     // API url
-    const API_URL = 'http://localhost:3500/items';
+    const API_URL = 'https://nkanagno.github.io/Grocery-List-API-JSON/db.json';
     // useState() variables:
     const [items, setItems]          = useState([])
     const [newItem, setNewItem]      = useState('')
