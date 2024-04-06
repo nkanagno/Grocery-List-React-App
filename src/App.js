@@ -5,7 +5,7 @@ import AddItem from './components/AddItem.js'
 import SearchItem from './components/SearchItem.js'
 import Content from './components/Content.js'
 import Footer from './components/Footer.js'
-import { useEffe ct, useState } from 'react'
+import { useEffect, useState } from 'react'
 
 function App() {
     // API url
